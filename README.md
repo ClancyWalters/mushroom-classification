@@ -1,7 +1,7 @@
 # Mushroom Classification
 This project was conducted in semester 1 2021 as part of a university unit.
 
-The aim of this project was to perform classification of mushrooms as edible or poisonous using the "Mushroom Data Set" submitted to the UCI Machine Learning Repository. The dataset was modified by the unit to prevent plagiarism.
+The aim of this project was to perform classification of mushrooms as edible or poisonous using the "Mushroom Data Set" submitted to the UCI Machine Learning Repository \[5]. The dataset was modified by the unit to prevent plagiarism.
 
 # Contents
 
@@ -173,7 +173,8 @@ The most critical value is the false negative rate and no model successfully pre
 
 # References
 
-1. Kaggle.com. 2021. _Analysis and Classification of mushrooms_. [online] Available at: \&lt;https://www.kaggle.com/haimfeld87/analysis-and-classification-of-mushrooms\&gt; [Accessed 6 May 2021].
-2. Medium. 2021. _Mushroom Classification Using Different Classifiers_. [online] Available at: \&lt;https://medium.com/analytics-vidhya/mushroom-classification-using-different-classifiers-aa338c1cd0ff\&gt; [Accessed 6 May 2021].
-3. Medium. 2021. _The Search for Categorical Correlation_. [online] Available at: \&lt;https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9\&gt; [Accessed 6 May 2021].
-4. Eunicien, Z., 2021. _Using pandas, calculate Cramér&#39;s coefficient matrix - Answer_. [online] Stack Overflow. Available at: \&lt;https://stackoverflow.com/a/39266194\&gt; [Accessed 6 May 2021].
+1. Kaggle.com. 2021. _Analysis and Classification of mushrooms_. \[online] Available at: \&lt;https://www.kaggle.com/haimfeld87/analysis-and-classification-of-mushrooms\&gt; [Accessed 6 May 2021].
+2. Medium. 2021. _Mushroom Classification Using Different Classifiers_. \[online] Available at: \&lt;https://medium.com/analytics-vidhya/mushroom-classification-using-different-classifiers-aa338c1cd0ff\&gt; [Accessed 6 May 2021].
+3. Medium. 2021. _The Search for Categorical Correlation_. \[online] Available at: \&lt;https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9\&gt; [Accessed 6 May 2021].
+4. Eunicien, Z., 2021. _Using pandas, calculate Cramér&#39;s coefficient matrix - Answer_. \[online] Stack Overflow. Available at: \&lt;https://stackoverflow.com/a/39266194\&gt; [Accessed 6 May 2021].
+5. Mushroom. (1987). UCI Machine Learning Repository.
