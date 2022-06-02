@@ -60,14 +60,6 @@ Most attributes in the dataset are categorical. Attributes, such as bruises, are
 
 ## Associated Values
 
-<style>
-    .imgPara {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-</style>
-
 <div class="imgPara">
 <p>Naïve bayes classifiers have a strong assumption that all attributes are independent, hence highly associated attributes may reduce prediction accuracy. However, removing attributes that are not perfectly correlated may result in a loss of information. A balance must be struck between removing closely correlated attributes and not reducing input information substantially. To identify the most closely associated variables I initially produced a heatmap of the Pearson Chi Squares p values.</p>
 <img src="Images/associated_values_1_a1.png" alt="drawing" width="350"/>
@@ -165,7 +157,7 @@ I chose to use a naïve bayes classifier as it was covered in week 8 and is idea
 <img src="Images/results_3_a1.png" alt="drawing" width="250"/> 
 </div>
 <br>
-Due to the size of the data and the strength of correlation between the class attribute and the other attributes the results from the training process are excellent. The ROC curves are near perfect and AUC values are \&gt; 0.99 indicating the model is well trained.
+Due to the size of the data and the strength of correlation between the class attribute and the other attributes the results from the training process are excellent. The ROC curves are near perfect and AUC values are &gt; 0.99 indicating the model is well trained.
 
 The most critical value is the false negative rate and no model successfully predicted 0 false negatives. This indicates that these models are not suitable for practical use as they have a non-zero chance of classifying a poisonous mushroom as edible.
 
